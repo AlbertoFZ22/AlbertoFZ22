@@ -19,11 +19,27 @@
   <img src="https://img.shields.io/badge/Delphi-D32F2F?style=for-the-badge&logo=delphi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
+### 📱 Uno de mis trabajos desarrollados con Android Studio: **Emitix**
+<div align="center">
+  <p><i>Capturas de pantalla de la aplicación</i></p>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="Main_emitix.jpg" width="250" alt="Pantalla Principal" />
+      </td>
+      <td>
+        <img src="Menu_emitix.jpg" width="250" alt="Menú de Navegación" />
+      </td>
+      <td>
+        <img src="Perfil_emitix.jpg" width="250" alt="Perfil de Usuario" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
