@@ -9,8 +9,8 @@
 
 ### Sobre mí
 - Actualmente enfocado en el desarrollo de **Emitix** (Android Nativo con Kotlin).
-- Experiencia básica en desarrollo de software de escritorio con **Object Pascal (Delphi)**.
-- Experiencia avanzada en diseño y optimización de bases de datos con **PostgreSQL**.
+- Experiencia básica en desarrollo de software de escritorio con **Object Pascal (Delphi) y Java**.
+- Experiencia avanzada en diseño y optimización de bases de datos con **PostgreSQL y SQL server**.
 - Experto en lógica para sistemas POS y facturación electrónica.
 
 ### Tecnologías y Herramientas
@@ -30,5 +30,5 @@
 ---
 
 <div align="center">
-  <p><i>"El código es poesía en movimiento."</i></p>
+  <p><i>Una vez dijo un loco "Si lo puedes soñar, lo puedes programar".</i></p>
 </div>
