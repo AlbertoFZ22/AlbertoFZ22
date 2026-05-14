@@ -6,10 +6,10 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 - 📱 Actualmente enfocado en el desarrollo de **Emitix** (Android Nativo con Kotlin).
-- 💻 Amplia experiencia en desarrollo de escritorio usando **Object Pascal (Delphi)**.
-- 🗄️ Especialista en diseño y optimización de bases de datos con **PostgreSQL**.
+- 💻 Experiencia basica en desarrollo de software de escritorio **Object Pascal (Delphi)**.
+- 🗄️ Experiencia avanzada en diseño y optimización de bases de datos con **PostgreSQL**.
 - 🛠️ Experto en lógica para sistemas POS y facturación electrónica.
 
 ### 🛠️ Tecnologías y Herramientas
