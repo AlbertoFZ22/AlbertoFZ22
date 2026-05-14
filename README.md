@@ -1,18 +1,19 @@
 <div align="center">
-  <h1>¡Hola! Soy Alberto 👋</h1>
+  <h1>Hola, soy Alberto</h1>
+  <h2>Systems Engineer at BlackSoftMX</h2>
   <p><strong>Software Developer | Android & Desktop Expert</strong></p>
-  <p>Apasionado por crear soluciones tecnológicas eficientes, desde sistemas administrativos hasta aplicaciones móviles modernas.</p>
+  <p>Podemos desarrollar tus necesidades a la medida. Apasionado por crear soluciones tecnológicas eficientes, desde sistemas administrativos hasta aplicaciones móviles modernas.</p>
 </div>
 
 ---
 
 ### Sobre mí
-- 📱 Actualmente enfocado en el desarrollo de **Emitix** (Android Nativo con Kotlin).
-- 💻 Experiencia basica en desarrollo de software de escritorio **Object Pascal (Delphi)**.
-- 🗄️ Experiencia avanzada en diseño y optimización de bases de datos con **PostgreSQL**.
-- 🛠️ Experto en lógica para sistemas POS y facturación electrónica.
+- Actualmente enfocado en el desarrollo de **Emitix** (Android Nativo con Kotlin).
+- Experiencia básica en desarrollo de software de escritorio con **Object Pascal (Delphi)**.
+- Experiencia avanzada en diseño y optimización de bases de datos con **PostgreSQL**.
+- Experto en lógica para sistemas POS y facturación electrónica.
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -23,23 +24,8 @@
 
 ---
 
-### 📱 Uno de mis trabajos desarrollados con Android Studio: **Emitix**
-<div align="center">
-  <p><i>Capturas de pantalla de la aplicación</i></p>
-  <table border="0">
-    <tr>
-      <td>
-        <img src="Main_emitix.jpg" width="250" alt="Pantalla Principal" />
-      </td>
-      <td>
-        <img src="Menu_emitix.jpg" width="250" alt="Menú de Navegación" />
-      </td>
-      <td>
-        <img src="Perfil_emitix.jpg" width="250" alt="Perfil de Usuario" />
-      </td>
-    </tr>
-  </table>
-</div>
+### Proyectos Destacados
+**Desarrollador de la app móvil Emitix:** [https://emitix.com.mx/](https://emitix.com.mx/)
 
 ---
 
